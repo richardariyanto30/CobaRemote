@@ -1,2 +1,2 @@
 # CobaRemote
-Repo untuk mencoba Git Clone.
+Repo untuk mencoba Git Remote.
